@@ -5,4 +5,7 @@ While working at SailPoint there have been a handful of things that I have had t
 ## Summary
 * Metrics and Logging (directory metrics_and_logging)
     * Where do the logs go, how do they get there, and how can you log metrics in your application.
-* ...    
+* Spring (directory spring)
+    * Spring isn't anything you really have to learn the hard way, unless you just want to. There are lots of good tutorials out there to get your feet wet with how things work and the different annotations. If you want a quick boot strap this video is a great start.
+* High Level JAWS (high_level)
+    * In the event you just came on board and wanted to take a look at a few of the documents for our architecture, this is where you would start.          
